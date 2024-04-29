@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborate on interesting projects
 
 ### Skills
 
